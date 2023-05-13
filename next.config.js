@@ -5,6 +5,6 @@ const nextConfig = {
 
 module.exports = {
   images: {
-    domains: ["rb.gy", "upload.wikimedia.org"]
+    domains: ["rb.gy", "upload.wikimedia.org", "external-content.duckduckgo.com"]
   }
 }
